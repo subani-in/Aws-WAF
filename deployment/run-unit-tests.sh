@@ -45,5 +45,5 @@ run_python_lambda_test() {
 run_python_lambda_test ip_retention_handler "Set IP Retention Lambda"
 run_python_lambda_test log_parser "Log Parser"
 
-# Return to the directory where we started
+# Return to the directory where we started, started
 cd $template_dir
